@@ -1,2 +1,2 @@
 # LKSDK
-蓝港官方Android SDK
+蓝港官方SDK Android版
